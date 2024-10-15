@@ -1,0 +1,2 @@
+# Adsoff
+Adblocker in Go
